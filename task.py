@@ -1,4 +1,4 @@
-1)
+#1)
 	a=6
 	b=7
 	c=8
@@ -7,7 +7,7 @@
 	#output
 		#1.3333333333333333 42 2097152
 
-2)
+#2)
 	a=6
 	b=7
 	c=8
@@ -16,7 +16,7 @@
 	#output
 		#1 1 7
 
-3)
+#3)
 	a=30
 	a*=2
 	print(a)
@@ -24,7 +24,7 @@
 	#output
 		#60
 
-4)
+#4)
 	z=4
 	z+=2
 	print(z)
@@ -32,7 +32,7 @@
 	#output
 		#6
 
-5)
+#5)
 	x=5
 	x%=2
 	y=10
@@ -42,7 +42,7 @@
 	#output
 		#3.0
 
-6)
+#6)
 	x=6
 	y=8
 	z=10
@@ -50,7 +50,7 @@
 
 	#output
 		#True False True
-7)
+#7)
 	x=6
 	y=8
 	z=10
@@ -59,7 +59,7 @@
 	#output
 		#True
 
-8)
+#8)
 	x=6
 	y=7
 	print(x&y)
@@ -67,7 +67,7 @@
 	#output
 		#6
 
-9)
+#9)
 	x=7
 	y=6
 	print(x/y)
@@ -75,7 +75,7 @@
 	#output
 		#7
 
-10)
+#10)
 	x=6
 	y=8
 	z=7
@@ -84,7 +84,7 @@
 	#output
 		#24 15 6 1
 
-11)
+#11)
 	a=30
 	b=14
 	c=13
@@ -93,13 +93,13 @@
 	#output
 		#16 12 19 12
 
-12)
+#12)
 	print("dhanam+reenu","dhanam","reenu")
 
 	#output
 		#dhanam+reenu dhanam reenu
 
-13)
+#13)
 	x=5
 	y=4
 	z=11
@@ -108,7 +108,7 @@
 	#output
 		#False
 
-14)
+#14)
 	x=5
 	y=4
 	z=11
@@ -117,7 +117,7 @@
 	#output
 		#20 0 1
 
-15)
+#15)
 	x=7
 	y=4
 	z=2
